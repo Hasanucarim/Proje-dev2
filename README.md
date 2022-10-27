@@ -9,3 +9,4 @@ HTML5 ve CSS3 ile oluşturulmuştur.
 
 <h2> Screen GİF </h2>
 
+![](screen.gif)
